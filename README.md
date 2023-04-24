@@ -1,7 +1,7 @@
 
 # MuchSquid Profile
 
-**'WEB/SOFWARE DEVELOPER'**
+**WEB/SOFWARE DEVELOPER**
 
 <!--
 **MuchSquid/MuchSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
