@@ -3,7 +3,7 @@
 
 **WEB/SOFWARE DEVELOPER**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style ="height = 10px; width = 10px;" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
           
           
           
