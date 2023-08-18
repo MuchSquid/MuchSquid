@@ -1,7 +1,7 @@
 
 # MuchSquid Profile
 
-**WEB/SOFWARE DEVELOPER**
+**JUNIOR WEB/SOFWARE DEVELOPER**
 
 
 ## Languages and Tools
