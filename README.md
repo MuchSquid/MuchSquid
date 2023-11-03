@@ -3,7 +3,7 @@
 
 **JUNIOR WEB/SOFWARE DEVELOPER**
 
-Working in progress..
+Working in progress...
 
 <!--
 ## Languages and Tools
