@@ -74,3 +74,12 @@
 -----
 
 <br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchSquid&theme=blue-green" />
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuchSquid&theme=blue-green" />
+</p>
+
