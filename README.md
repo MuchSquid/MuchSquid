@@ -34,8 +34,7 @@
     ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
     
 - **Full Stack Skills**:
-
-   ![UNITY](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,6 +58,7 @@
     ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
     ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
     ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+    ![UNITY](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
     ![Mac](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-ASUS_TUF_Gaming_A15-0078D6?style=for-the-badge&logo=windows&logoColor=white)   
 
